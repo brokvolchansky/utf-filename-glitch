@@ -4,6 +4,7 @@ The project contains a file named `FileСоntainsUtfSymbols.tsx`, where the lett
 
 Environment:
 ```
+OS: Macos 15.0.1 (Sequoia)
 IntelliJ IDEA 2024.2.3 (Ultimate Edition)
 Build #IU-242.23339.11, built on September 25, 2024
 Licensed to ****
