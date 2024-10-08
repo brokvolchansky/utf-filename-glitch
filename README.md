@@ -68,6 +68,8 @@ OpenJDK 64-Bit Server VM Homebrew (build 23, mixed mode, sharing)
 node.js v22.9.0
 
 SonarLint 10.11.1.79663
+
+project type: vite typescript react
 ```
 
 This leads to errors such as:
